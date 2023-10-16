@@ -15,7 +15,7 @@ dependencies:
   intl:
   floor:
   retrofit:
-
+  flutter_hooks:
 dev_dependencies:
   flutter_test:
     sdk: flutter
