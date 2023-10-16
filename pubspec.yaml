@@ -13,6 +13,7 @@ dependencies:
   equatable:
   get_it:
   intl:
+  floor:
 
 dev_dependencies:
   flutter_test:
